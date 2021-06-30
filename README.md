@@ -1,5 +1,4 @@
-# CreatADataSciencePostwithCRISPDMProcess
-### write a data science post with CRISP-DM process
+# Creat a Data Science Post with CRISPDM Process
 
 1. [Project Motivation](#motivation)
 2. [File Descriptions](#files)

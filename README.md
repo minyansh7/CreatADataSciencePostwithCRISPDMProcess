@@ -3,9 +3,9 @@
  
 # Project Motivation
  For this project, I was interested in using Airbnb Seattle data to better understand:
- 1.What Airbnb houses are the most popular ones in market?
- 2.What is the factor that related with the Airbnb price the most?
- 3.Can we predict the price of Airbnb houses?
+ - 1.What Airbnb houses are the most popular ones in market?
+ - 2.What is the factor that related with the Airbnb price the most?
+ - 3.Can we predict the price of Airbnb houses?
 
 It is also a project for Udacity Data Scientist Nanodegree program. This project aims to have a focus on the data science process.
 

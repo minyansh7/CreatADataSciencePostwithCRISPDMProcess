@@ -14,9 +14,9 @@ listings.csv is part of Seattle Airbnb open data. It consists of various Airbnb 
 The dataset is aslo accessible here:https://www.kaggle.com/airbnb/seattle/data
 
 # Result
-[Using Machine learning to predict Values of homes on Airbnb.ipynb](https://github.com/minyansh7/CreatADataSciencePostwithCRISPDMProcess/blob/main/Using%20Machine%20learning%20to%20predict%20Values%20of%20homes%20on%20Airbnb.ipynb) is my original code conducting the project analysis.
+[Using Machine learning to predict Values of homes on Airbnb.ipynb](https://github.com/minyansh7/CreatADataSciencePostwithCRISPDMProcess/blob/main/Using%20Machine%20learning%20to%20predict%20Values%20of%20homes%20on%20Airbnb.ipynb) is my  full code.
 
-Here is also my [blog](https://minyansh.blogspot.com/2021/06/use-data-science-to-predict-airbnb.html) post summarise this project findings.
+[Here](https://minyansh.blogspot.com/2021/06/use-data-science-to-predict-airbnb.html) is also my blog post that summarises the project findings.
 
 # Licensing, Authors and Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and dexscriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).

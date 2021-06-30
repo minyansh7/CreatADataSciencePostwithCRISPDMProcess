@@ -6,7 +6,6 @@
 3. [Result](#results)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation <a name="installation"></a>
 
  
 ## 1. Project Motivation<a name="motivation"></a>

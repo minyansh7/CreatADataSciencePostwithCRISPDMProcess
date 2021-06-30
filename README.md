@@ -23,7 +23,7 @@ The dataset is accessible here:https://www.kaggle.com/airbnb/seattle/data
 ## 3. Result<a name="results"></a>
 [Using Machine learning to predict Values of homes on Airbnb.ipynb](https://github.com/minyansh7/CreatADataSciencePostwithCRISPDMProcess/blob/main/Using%20Machine%20learning%20to%20predict%20Values%20of%20homes%20on%20Airbnb.ipynb) is my  full code.
 
-[Here](https://minyansh.blogspot.com/2021/06/use-data-science-to-predict-airbnb.html) is also my blog post that summarises the project findings.
+Here is my [blog post](https://minyansh.blogspot.com/2021/06/use-data-science-to-predict-airbnb.html) that summarises the project findings.
 
 ## 4. Licensing, Authors and Acknowledgements<a name="licensing"></a>
 Must give credit to Airbnb for the data. You can find the Licensing for the data and dexscriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).

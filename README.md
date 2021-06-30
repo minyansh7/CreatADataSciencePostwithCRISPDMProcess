@@ -1,15 +1,12 @@
 # CreatADataSciencePostwithCRISPDMProcess
  write a data science post with CRISP-DM process
  
- ## Table of Contents
- <p >
-  <a href="Project Motivation">Project Motivation</a> •
-  <a href="File Descriptions">File Descriptions</a> •
-  <a href="Results">Results</a> •
-  <a href="Licensing, Authors and Acknowledgements">Licensing, Authors and Acknowledgements</a> 
-</p>
- 
- 
+### Table of Contents
+##[# 1.Project Motivation](<!-- Project Motivation --> )
+##[# 2.File Descriptions](<!-- File Descriptions --> ) 
+##[# 3.Results](<!-- Result --> )
+##[# 4.Licensing, Authors and Acknowledgements](<!-- Licensing, Authors and Acknowledgements --> )
+
 <!-- Project Motivation --> 
  ### 1.Project Motivation
  For this project, I was interested in using Airbnb Seattle data to better understand:

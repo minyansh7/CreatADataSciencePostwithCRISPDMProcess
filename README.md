@@ -3,10 +3,10 @@
  
  ## Table of Contents
  <p >
-  <a href="#1.Project Motivation">Project Motivation</a> •
-  <a href="#2.File Descriptions">File Descriptions</a> •
-  <a href="#3.Results">Results</a> •
-  <a href="#4.Licensing, Authors and Acknowledgements">Licensing, Authors and Acknowledgements</a> 
+  <a href="Project Motivation">#1.Project Motivation</a> •
+  <a href="File Descriptions">#2.File Descriptions</a> •
+  <a href="Results">#3.Results</a> •
+  <a href="Licensing, Authors and Acknowledgements">#4.Licensing, Authors and Acknowledgements</a> 
 </p>
  
  

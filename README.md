@@ -17,6 +17,7 @@ It is also a project for Udacity Data Scientist Nanodegree program. This project
 
 ## 2. File Descriptions <a name="files"></a>
 [listings.csv](https://github.com/minyansh7/CreatADataSciencePostwithCRISPDMProcess/blob/main/listings.csv) is part of Seattle Airbnb open data. It consists of various Airbnb homestay activities in Seattle area.
+
 The dataset is accessible here:https://www.kaggle.com/airbnb/seattle/data
 
 ## 3. Result<a name="results"></a>

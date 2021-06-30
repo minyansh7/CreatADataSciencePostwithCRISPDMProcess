@@ -2,12 +2,12 @@
  write a data science post with CRISP-DM process
  
 ### Table of Contents
-[ 1.Project Motivation](#Project Motivation)
-[ 2.File Descriptions](<!-- File Descriptions --> ) 
-[ 3.Results](<!-- Result --> )
-[ 4.Licensing, Authors and Acknowledgements](<!-- Licensing, Authors and Acknowledgements --> )
+[1.Project Motivation](#Project Motivation)
+[2.File Descriptions](#File Descriptions) 
+[3.Results](#Result)
+[4.Licensing, Authors and Acknowledgements](#Licensing, Authors and Acknowledgements)
 
-#Project Motivation
+# Project Motivation
  ### 1.Project Motivation
  For this project, I was interested in using Airbnb Seattle data to better understand:
  1.What Airbnb houses are the most popular ones in market?
@@ -16,18 +16,18 @@
 
 It is also a project for Udacity Data Scientist Nanodegree program. This project aims to have a focus on the data science process.
 
-<!-- File Descriptions --> 
+# File Descriptions
 ### 2.File Descriptions
 listings.csv is part of Seattle Airbnb open data. It consists of various Airbnb homestay activities in Seattle area.
 The dataset is aslo accessible here:https://www.kaggle.com/airbnb/seattle/data
 
-<!-- Result --> 
+# Result
 ### 3.Results
 [Using Machine learning to predict Values of homes on Airbnb.ipynb](https://github.com/minyansh7/CreatADataSciencePostwithCRISPDMProcess/blob/main/Using%20Machine%20learning%20to%20predict%20Values%20of%20homes%20on%20Airbnb.ipynb) is my original code conducting the project analysis.
 
 Here is also my [blog](https://minyansh.blogspot.com/2021/06/use-data-science-to-predict-airbnb.html) post summarise this project findings.
 
-<!-- Licensing, Authors and Acknowledgements --> 
+# Licensing, Authors and Acknowledgements
 ### 4.Licensing, Authors and Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and dexscriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).
 
